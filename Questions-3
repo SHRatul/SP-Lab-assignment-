@@ -1,4 +1,4 @@
-/* Write a program to print all prime numbers between �a� to �n� (a for Lower and n for upper number)*/
+/* Write a program to print all prime numbers between 'a' to 'n' (a for Lower and n for upper number)*/
 
 #include <stdio.h>
 
